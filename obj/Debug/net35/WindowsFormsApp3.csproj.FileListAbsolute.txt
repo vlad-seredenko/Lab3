@@ -1,0 +1,6 @@
+C:\Users\VLAD\source\repos\WindowsFormsApp3\obj\Debug\net35\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\VLAD\source\repos\WindowsFormsApp3\obj\Debug\net35\WindowsFormsApp3.Form1.resources
+C:\Users\VLAD\source\repos\WindowsFormsApp3\obj\Debug\net35\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\VLAD\source\repos\WindowsFormsApp3\obj\Debug\net35\WindowsFormsApp3.AssemblyInfoInputs.cache
+C:\Users\VLAD\source\repos\WindowsFormsApp3\obj\Debug\net35\WindowsFormsApp3.AssemblyInfo.cs
+C:\Users\VLAD\source\repos\WindowsFormsApp3\obj\Debug\net35\WindowsFormsApp3.csproj.CoreCompileInputs.cache
